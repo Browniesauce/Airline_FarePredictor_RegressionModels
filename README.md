@@ -175,3 +175,16 @@ jupyter notebook
   <li>Real-time data integration</li>
   <li>Advanced models (XGBoost, LightGBM)</li>
 </ul>
+
+<h2>⭐ Acknowledgements</h2>
+
+<p>
+This project uses the 
+<a href="https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction">
+Flight Price Prediction Dataset
+</a> provided on Kaggle by <b>Shubham Bathwal</b>.
+</p>
+
+<p>
+Special thanks to the author for making this dataset publicly available for research and learning purposes.
+</p>
